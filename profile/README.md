@@ -3,7 +3,7 @@
 ## Welcome to GDSC IAU!
 
 <p align="center">
-<img src="/profile/assets/gdsc-logo.png" />
+<img src="./profile/assets/gdsc-logo.png" />
 </p>
 
 Welcome to the Google Developer Student Club (GDSC) at the Imam Abdulrahman Bin Faisal University (IAU). We are a community of passionate students who are enthusiastic about technology and innovation. Our main focus is to prepare and empower students to participate in the Google Solution Challenge, where we aim to create real-world solutions that have a positive impact on society.
